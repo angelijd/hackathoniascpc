@@ -1,0 +1,8 @@
+{
+  "name": "Hackathon IAS",
+  "description": "Tela de boas-vindas do teste de Pensamento Crítico e Criatividade do Instituto Ayrton Senna na plataforma kairops PG\u0026C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
